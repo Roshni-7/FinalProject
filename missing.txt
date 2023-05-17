@@ -1,0 +1,9 @@
+parameters
+property claim
+vehicle claim
+injury claim
+
+some parameters on each sector missing
+like relative husband
+job al??
+etc..
